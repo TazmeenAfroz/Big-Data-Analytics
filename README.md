@@ -7,7 +7,7 @@ This repository contains **all course materials**, including **lecture slides**,
 
 ## 📚 Course Overview
 
-This course introduces students to the core technologies and frameworks used in the field of **Big Data Analytics**. Topics include large-scale data processing pipelines, distributed computing with Hadoop and Spark, GPU-based processing using CUDA, real-time messaging systems like Kafka and ZeroMQ, and machine learning libraries built on big data frameworks.
+ Topics include large-scale data processing pipelines, distributed computing with Hadoop and Spark, GPU-based processing using CUDA, real-time messaging systems like Kafka and ZeroMQ, and machine learning libraries built on big data frameworks.
 
 ---
 
