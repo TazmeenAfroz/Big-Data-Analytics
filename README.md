@@ -65,7 +65,6 @@ This repository contains **all course materials**, including **lecture slides**,
 ## 📌 Note
 
 This repository is managed by a student for academic purposes.  
-All rights belong to their respective authors and the course instructor.
 
 Feel free to fork, star, and contribute if you're taking the course or revising BigData!
 
